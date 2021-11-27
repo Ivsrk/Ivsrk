@@ -30,7 +30,8 @@ I am a passionate software engineer with 1+ years of experience. I would love to
 ## 👨🏻‍💼 Work Experience 🖱️ 🖥️ ⌨️
 |            Position                   |       Organisation      |           Timeline              |
 | --------------------------------------|:-----------------------:| -------------------------------:|
-| Graduate Trainee - Software Engineer  |  Freshworks             |  October 2020 - Till now        |
+| Software Engineer                     |  Freshworks             |  April 2020   - Till now        |
+| Graduate Trainee - Software Engineer  |  Freshworks             |  October 2020 - March 2021      |
 | Software Engineer - Intern            |  Freshworks             |  January 2020 - September 2020  |
 
 <p>&nbsp;</p>
