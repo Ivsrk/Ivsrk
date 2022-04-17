@@ -1,5 +1,5 @@
 ## Hello.. I'm itha 👋🏼 😀
-<img src="https://github.com/ivsrk/ivsrk/blob//itha.png" alt="Ivsrk Itha">
+<img src="https://github.com/ivsrk/ivsrk/blob/master/itha.png" alt="Ivsrk Itha" width="200" height="200">
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
