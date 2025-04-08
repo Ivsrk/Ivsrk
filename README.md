@@ -3,8 +3,7 @@
 <p>&nbsp;</p>
 
 ## 🗣 About Me 🗣
-I am a passionate software engineer with 1+ years of experience. I would love to explore new technologies and solving challenges. I enjoy working with python, Kubernates, AWS and other dev-ops tools.
-
+I am a Senior DevOps Engineer with 4.5+ years of experience in managing cloud-based technologies and implementing core DevOps concepts. I excel in designing, deploying, and maintaining robust DevOps solutions, ensuring scalability and reliability in cloud-based applications. My expertise includes containerization, Istio, database management, load balancing, and more.
 <p>&nbsp;</p>
 
 ## 📖 📚 Area of Expertise 📕 📗
@@ -28,13 +27,15 @@ I am a passionate software engineer with 1+ years of experience. I would love to
 <p>&nbsp;</p>
 
 ## 👨🏻‍💼 Work Experience 🖱️ 🖥️ ⌨️
-|            Position                   |       Organisation      |           Timeline              |
-| --------------------------------------|:-----------------------:| -------------------------------:|
-| Software Engineer                     |  Freshworks             |  April 2020   - Till now        |
-| Graduate Trainee - Software Engineer  |  Freshworks             |  October 2020 - March 2021      |
-| Software Engineer - Intern            |  Freshworks             |  January 2020 - September 2020  |
+| Position                             |       Organisation      |                      Timeline |
+|--------------------------------------|:-----------------------:|------------------------------:|
+| Senior Devops Engineer               |  Freshworks             | October 2023   -      Present |
+| Software Engineer - Devops           |  Freshworks             | April 2020     - October 2023 |
+| Graduate Trainee - Software Engineer |  Freshworks             | October 2020   -   March 2021 |
+| Software Engineer - Intern           |  Freshworks             | January 2020 - September 2020 |
 
 <p>&nbsp;</p>
+
 
 ## 👨‍🏫🎓 Education 🎗👨🏻‍🎓
 <h5> SASTRA University  &nbsp; - &nbsp; JUL 2016 - MAY 2020</h5>
